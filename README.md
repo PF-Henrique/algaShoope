@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="redux" src="" />
+    <img alt="redux" src="https://github.com/PF-Henrique/algaShoope/blob/master/public/app.png" />
 </h1>
 
 <h1 align='center'>Shoope - React + Redux</h1>
@@ -19,13 +19,11 @@ One plataform development by **Challenge imersive React** of the [AlgaWorks](htt
     <li><a href="https://redux.js.org/" target="_blank">Redux</a></li>
 </ul>
 
-## 🌎 Demonstration
-To help visualize the application, a demonstration was set up using [Rocketseat's API](https://rocketseat-node.herokuapp.com/api/products) as backend: **[click here](https://rhenangarcia.github.io/huntweb/build)** to see it.
-
 ## 🧰 Prerequisites
 Make sure you have installed all of the following prerequisites on your machine:
 * **[Git](https://git-scm.com/downloads)**;
 * **[Node.js](https://nodejs.org/en/download/)** with npm package manager.
+* **[Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)**;
 
 ## 🔧 Install
 
@@ -67,7 +65,7 @@ Then send a Pull Request that will be analyzed and approved if it helps with the
 ---
 ## 🐛 Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Name](https://github.com/PF-Henrique/) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [algaShoope](https://github.com/PF-Henrique/algaShoope/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
 
 ## 💓 Support me
